@@ -1,4 +1,4 @@
-example-restful-aip
+example-restful-api
 =================================
 Client / server appliction based on RESTful API to transmit simple data.
 
