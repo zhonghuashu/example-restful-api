@@ -16,6 +16,9 @@ Content-Type: application/x-www-form-urlencoded
 
 alarm=fire&level=critical
 
+# Check opened ports is started.
+$ netstat -tunlp | grep 8080
+
 # Simple RESTful API client using curl.
 $ ./client.sh
 
